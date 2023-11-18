@@ -1,1 +1,1 @@
-![BasicsProblems-min](https://github.com/imobscure/GraphPrimer/assets/77916096/05c69d58-a396-4355-94c8-557e3d46c338)
+![BasicsProblems-min](https://github.com/imobscure/GraphPrimer/assets/77916096/8ada12bc-ae0a-4089-8852-2794e31b8ce5)
